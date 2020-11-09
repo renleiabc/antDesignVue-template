@@ -4,6 +4,18 @@
 
 If you want to implement a background management system with rights management, multi language and data interaction, this code will be a good template choice, and you are worth having
 
+## Technical framework
+
+Vue-cli4.0
+
+ant-design-vue 1.7.1
+
+echarts
+
+vue-i18n
+
+axios
+
 ## Project setup
 
 ```
